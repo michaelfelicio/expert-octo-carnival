@@ -3,6 +3,16 @@ A repository that contains basic configurations for start using Multipass to cre
 
 # Working with Multipass
 
+Things needed
+
+1. Zsh
+2. Oh-My-Zsh
+3. NVM
+4. Docker
+5. build-essential and other packages from apt
+6. Kubernetes
+7. ?
+
 `
 $ 
 `
